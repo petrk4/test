@@ -1,4 +1,4 @@
-#mdowemfownlkwnref
+#FIRST
 def show_moves(moves): #показывает список комманд
     print("-" * 20)
     for k, v in moves.items():
